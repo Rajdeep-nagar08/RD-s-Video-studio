@@ -13,7 +13,7 @@ Install these prerequisites :-
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/Rajdeep-nagar08/RD-Blockchain-Marketplace/tree/master`
+`git clone https://github.com/Rajdeep-nagar08/RD-Blockchain-Video-studio`
 
 ## Step 2. Install dependencies
 ```
